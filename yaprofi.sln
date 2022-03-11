@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yaprofi", "yaprofi\yaprofi.csproj", "{AA49D6C5-42F5-41C2-8949-D97BD428FAB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA49D6C5-42F5-41C2-8949-D97BD428FAB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA49D6C5-42F5-41C2-8949-D97BD428FAB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA49D6C5-42F5-41C2-8949-D97BD428FAB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA49D6C5-42F5-41C2-8949-D97BD428FAB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
